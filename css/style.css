@@ -1,0 +1,10 @@
+.my-style {
+    background-color: rgb(206, 128, 128);
+    color: rgb(235, 235, 235);
+    font-size: 22px;
+    text-align: center;
+    border: 1px solid brown;
+}
+.row {
+    padding: 12px 0;
+}
